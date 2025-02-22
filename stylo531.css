@@ -1,0 +1,35 @@
+body {
+    font-size: 22px;
+    font-family: 'Arial', sans-serif;
+    background-color: #ea00ff;
+}
+header {
+    background-color: #48ce31;
+    color: #aa00ff;
+    padding: 10px;
+    text-align: center;
+    text-decoration: none;
+    display: flex;
+    margin: 10px;
+}
+
+.buscador {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 10px;
+    padding: 10px;
+}
+
+section {
+    padding: 10px;
+    margin: 10px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+}
+
+
+
+
+
+
